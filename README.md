@@ -1,1 +1,11 @@
-# Site2_PIB_Tabuleiro
+<h1>Primeira Igreja Batista no Tabuleiro</h1>
+
+<h2>Objetivo</h2>
+<ul>
+  <li>Pequeno projeto (pessoal) para criar e estudar os princípios do HTML + CSS na aplicação real de um site.</li>
+  <li>Utilizando somente o HTML + CSS + JavaScript sem algum tipo de framework</li>
+</ul>
+
+<hr/>
+
+<h4><b>Status do Projeto:</b> :speech_balloon: Estudando</h4>
