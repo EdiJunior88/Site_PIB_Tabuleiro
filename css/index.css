@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+
+
+#cabeçalho {
+  width: 100%;
+  height: 100%;
+  background-color: #35648C;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+img {
+  height: 60px;
+  width: 200px;
+}
