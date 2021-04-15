@@ -2,7 +2,7 @@
 
 <h2>Objetivo</h2>
 <ul>
-  <li>Pequeno projeto (pessoal) para criar e estudar os princípios do HTML + CSS na aplicação real de um site.</li>
+  <li>Pequeno projeto (pessoal) para criar e estudar os princípios do HTML + CSS + JavaScript na aplicação real de um site.</li>
   <li>Utilizando somente o HTML + CSS + JavaScript sem algum tipo de framework</li>
 </ul>
 
