@@ -21,6 +21,11 @@ a {
   width: 21%;
 }
 
+.menu__horizontal {
+  display: flex;
+  align-items: center;
+}
+
 .menu__horizontal-links {
   color: white;
   text-align: center;
