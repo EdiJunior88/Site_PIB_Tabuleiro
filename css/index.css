@@ -5,34 +5,35 @@ body {
 }
 
 .cabecalho {
-  display: block;
-  width: 100%;
-  height: 90px;
-  padding: 10px;
   background-color: #35648C;
 }
 
+.container__logo-menu {
+  max-width: 200px;
+  min-width: 100px;
+  display: inline-flex;
+}
+
+.container__menu {
+  width: 70%;
+  height: 63px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
 .imagem__logo-menu {
-  width: 22%;
-  display: flex;
-  float: left;
+  width: 100%;
+  height: 100%;
 }
 
 .menu__horizontal {
   display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-}
-
-.menu__horizontal-links {
-  display: inline-block;
-  padding: 0 39px 0 0;
-  margin-top: 40px;
+  flex-wrap: wrap;
+  
 }
 
 .menu__horizontal-links a {
   text-decoration: none;
   color: white;
 }
-
-
