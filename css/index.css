@@ -62,13 +62,14 @@ body {
   flex-wrap: wrap;
 }
 
-.menu__horizontal-links {
+.menu__horizontal-link {
   display: inline-block;
 }
 
-.menu__horizontal-links a {
+.menu__horizontal-link a {
   display: inline-block;
   text-decoration: none;
   color: white;
   padding: 0 25px 0 25px;
 }
+
