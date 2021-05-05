@@ -73,3 +73,22 @@ body {
   padding: 0 25px 0 25px;
 }
 
+.slideshow {
+  display: block;
+  height: 549px;
+  width: 549px;
+  margin: auto;
+  position: relative;
+}
+
+.slideshow li {
+  list-style: none;
+  position: absolute;
+}
+
+.slideshow img {
+  margin: auto;
+  height: 100%;
+  width: 100%;
+  vertical-align: top;
+}
