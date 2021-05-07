@@ -36,6 +36,11 @@
   .menu__horizontal a {
     padding: 0 0 15px 0;
   }
+
+  .container__slideshow img {
+    height: 280px;
+    width: 280px;
+  }
 }
 
 body {
@@ -71,4 +76,53 @@ body {
   text-decoration: none;
   color: white;
   padding: 0 25px 0 25px;
+}
+
+.container__slideshow {
+  height: 549px;
+  width: 549px;
+  position: relative;
+  margin: auto;
+}
+
+.container__slideshow > * {
+  position: absolute;
+  top: 0;
+  left: 0;
+  animation: 12s autoplay1 infinite linear;
+  opacity: 0;
+}
+
+.container__slideshow > *:nth-child(1) {
+  animation-delay: 0s;
+}
+
+.container__slideshow > *:nth-child(2) {
+  animation-delay: 4s;
+}
+
+.container__slideshow > *:nth-child(3) {
+  animation-delay: 8s;
+}
+
+@keyframes autoplay1 {
+  0% {
+    opacity: 0;
+  }
+
+  4% {
+    opacity: 1;
+  }
+
+  33.33% {
+    opacity: 1;
+  }
+
+  37.33% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 0;
+  }
 }
