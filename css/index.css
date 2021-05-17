@@ -128,7 +128,7 @@ body {
 }
 
 .pontinhos {
-  top: 85px;
+  top: 78px;
   width: 18px;
   height: 18px;
   margin: 0 4px;
@@ -151,17 +151,17 @@ body {
 #imagem__slide1:checked ~ .pontinho__slideshow #pontinhos1,
 #imagem__slide2:checked ~ .pontinho__slideshow #pontinhos2,
 #imagem__slide3:checked ~ .pontinho__slideshow #pontinhos3 {
-  background: #fff;
+  background: #35648C;
 }
 
 .botao__prev:hover {
   transition: .3s;
-  background: #35638c41;
+  background: #35638c7c;
   opacity: 1;
 }
 
 .botao__next:hover {
   transition: .3s;
-  background: #35638c41;
+  background: #35638c7c;
   opacity: 1;
 }
