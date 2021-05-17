@@ -47,6 +47,8 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/*Menu Horizontal com o logo ao lado esquerdo*/
+
 .cabecalho {
   background-color: #35648C;
   text-align: center;
@@ -78,10 +80,12 @@ body {
   padding: 0 25px 0 25px;
 }
 
+/* Slideshow Comunicações na Página Inicial*/
+
 .container__slideshow {
   position: relative;
-  height: 549px;
-  width: 549px;
+  height: 480px;
+  width: 480px;
   margin: 0 auto;
 }
 
@@ -128,7 +132,7 @@ body {
 }
 
 .pontinhos {
-  top: 78px;
+  top: 75px;
   width: 18px;
   height: 18px;
   margin: 0 4px;
