@@ -1,4 +1,4 @@
-<h5>Versão 2.0</h5>
+<h5>Versão 1.0</h5>
 
 <h1>Primeira Igreja Batista no Tabuleiro</h1>
 
