@@ -7,5 +7,24 @@
 
 .cabecalho__logo {
   width: 200px;
+  margin-top: 2em;
 }
 
+.container__menu {
+  width: 100%;
+  text-align: center;
+}
+
+.cabecalho__menu-link {
+  display: inline-block;
+}
+
+.cabecalho__menu-link a {
+  display: inline-block;
+  text-decoration: none;
+  padding: 1.5em 0.7em;
+}
+
+.cabecalho__menu-link::after {
+  content: "|";
+}
