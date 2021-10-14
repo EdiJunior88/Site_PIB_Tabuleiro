@@ -5,8 +5,12 @@
 <h2>Objetivo</h2>
 <ul>
   <li>Pequeno projeto (pessoal) para criar e estudar os princípios do HTML + CSS + JavaScript na aplicação real de um site.</li>
-  <li>Utilizando somente o HTML + CSS + JavaScript e utilizando um pouco de framework (Bootstrap)</li>
+  <li>Utilizando somente o HTML + CSS + JavaScript </li>
 </ul>
+
+<hr/>
+
+<strong>Site do Projeto: </strong> <a href="https://edijunior88.github.io/Site_PIB_Tabuleiro/">https://edijunior88.github.io/Site_PIB_Tabuleiro/</a>
 
 <hr/>
 
